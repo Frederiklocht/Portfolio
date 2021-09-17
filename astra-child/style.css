@@ -13,3 +13,8 @@
 */
 
 
+/* Ændrer farven på knap på Contact side */
+
+button#wpforms-submit-577 {
+    background-color: #ffbe5d;
+}
